@@ -16,8 +16,9 @@ const styles = {
     borderRadius: 3,
     border: 0,
     color: "white",
-    height: 50,
-    width: 80,
+    height: 35,
+    width: 70,
+    'font-size': 14,
     padding: "0 30px",
     boxShadow: "0 3px 5px 2px rgba(255, 105, 135, .3)"
   },
